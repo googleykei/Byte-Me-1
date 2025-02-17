@@ -4,6 +4,7 @@ KeDaArD
 
 - Kei Sanabria Santana
 - Darianne Sinclair
+- Your name
 
 ## How to run the streamlit app
 
